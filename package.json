@@ -1,0 +1,18 @@
+{
+  "name": "astrodudebot",
+  "version": "1.0.0",
+  "description": "AstrodudeBot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Nikhilesh Rana",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.6",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.7"
+  }
+}
